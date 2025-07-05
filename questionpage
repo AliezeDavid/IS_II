@@ -1,0 +1,9 @@
+> Write a Java program to create a class called Vehicle with a method called drive().
+
+ > Create a subclass called Car that overrides the drive() method to print "Repairing a car".
+For more hands on, do the following to the classes created above:
+> Write a Java program where the "Car" subclass includes a method to check fuel level and alert when low.
+> Write a Java program where the "Vehicle" class has a method to check engine status, and subclasses override it.
+> Write a Java program where the "Car" subclass adds a feature to calculate trip cost based on fuel consumption.
+> Write a Java program where the "Vehicle" class includes an attribute for speed, and
+ subclasses modify speed based on type.
